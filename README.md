@@ -1,6 +1,3 @@
-
-Excited to share my recent work on YOLO Object Detection, where I built a complete end-to-end pipeline for detecting objects in real-time with high accuracy.
-
  Project Intro:
  
 The goal of this project was to build a fast and accurate object detection system using YOLO (You Only Look Once).
@@ -19,9 +16,8 @@ Skills / Tools Used:
 3) YOLOv5 / YOLOv8
 4) OpenCV
 5) PyTorch
-6) Jupyter Notebook
-7 CNNs
-8) Data Augmentation / Evaluation Metrics
+6 CNNs
+7) Data Augmentation / Evaluation Metrics
 
  ## 👤 Author
 **Danish Zulfiqar**
