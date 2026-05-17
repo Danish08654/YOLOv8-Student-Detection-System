@@ -17,7 +17,7 @@ The goal of this project was to build a fast and accurate object detection syste
 
 # Tools Used:
 
-1)React.js
+1) React.js
 
 2) Python
   
