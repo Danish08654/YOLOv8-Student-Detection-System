@@ -18,11 +18,17 @@ The goal of this project was to build a fast and accurate object detection syste
 # Tools Used:
 
 1)React.js
+
 2) Python
+  
 3) YOLOv5 / YOLOv8
+   
 4) OpenCV
+  
 5) PyTorch
-6 CNNs
+ 
+6) CNNs
+
 7) Data Augmentation / Evaluation Metrics
 
 ---
